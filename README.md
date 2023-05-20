@@ -1,3 +1,9 @@
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tele-gram-bot/Auto-Forward-Messages)
+
+
+
+
+
 # Auto-Forward-Messages-Telegram
 You can use this BOT as a distribution of messages from any telegram chats (private/public channels, private/public groups, direct chats) into one or many chat.
 
